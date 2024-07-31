@@ -13,7 +13,6 @@ import os
 class Util_all:
 
     def __init__(self, driver):
-        super().__int__(driver)
         self.driver = driver
 
     # for login operation enter the orange-hrm-site
