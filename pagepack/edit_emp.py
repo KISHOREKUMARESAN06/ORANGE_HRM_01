@@ -11,7 +11,6 @@ from utilpack.util_all import Util_all
 class Emp_edit_cls:
 
     def __init__(self, driver):
-        super().__int__(driver)
         self.driver = driver
 
     # this method for tests editing employee.
