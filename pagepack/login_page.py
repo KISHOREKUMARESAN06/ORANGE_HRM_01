@@ -11,7 +11,6 @@ from utilpack.util_exl import XLU
 class Login_cls:
 
     def __init__(self, driver):
-        super().__int__(driver)
         self.driver = driver
 
     # method of login with username and password.
