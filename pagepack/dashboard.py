@@ -11,7 +11,6 @@ from utilpack.util_all import Util_all
 class Emp_add_cls:
 
     def __init__(self, driver):
-        super().__int__(driver)
         self.driver = driver
 
     # only for validate the Dashboard page
